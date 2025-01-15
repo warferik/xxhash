@@ -1,3 +1,3 @@
-module github.com/warferik/xxhash/v2
+module github.com/warferik/xxhash
 
 go 1.11
